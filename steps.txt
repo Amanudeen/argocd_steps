@@ -1,5 +1,5 @@
 steps for argocd using minikube
--------------------------------------
+--------------------------------
     1  sudo apt-get update
     2  sudo apt-get install -y docker.io
     3  sudo systemctl start docker
